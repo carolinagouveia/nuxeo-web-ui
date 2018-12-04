@@ -12,6 +12,7 @@
     "bower.json"
   ],
   "extraDependencies": [
+    "routing.js",
     "sw.js",
     "manifest.json",
     "index.css",
